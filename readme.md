@@ -67,4 +67,5 @@ Singventory is a karaoke venue and song tracking application for Android that he
 PseudonymousEd@gmail.com
 
 ---
+
 Generated for Singventory app legal compliance with Google Play Store requirements.
